@@ -1,3 +1,3 @@
-# Slider image task
+# Slider images task
 
-![Project imege](/images/image-project.png)
+![Project image](/images/image-project.png)
