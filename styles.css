@@ -102,22 +102,22 @@ input:checked + label .description {
 }
 
 .card[for="im1"] {
-    background-image: url('/images/advantares.jpg')
+    background-image: url('./images/advantares.jpg')
 }
 .card[for="im2"] {
-    background-image: url('/images/avatar.jpg');
+    background-image: url('./images/avatar.jpg');
 }
 .card[for="im3"] {
-    background-image: url('/images/cat.jpg');
+    background-image: url('./images/cat.jpg');
 }
 .card[for="im4"] {
-    background-image: url('/images/cuteimage.jpg');
+    background-image: url('./images/cuteimage.jpg');
 }
 .card[for="im5"] {
-    background-image: url('/images/littleprince.jpg');
+    background-image: url('./images/littleprince.jpg');
 }
 .card[for="im6"] {
-    background-image: url('/images/nightmares.jpg');
+    background-image: url('./images/nightmares.jpg');
 }
 
 @media screen and (max-width: 820px) {
